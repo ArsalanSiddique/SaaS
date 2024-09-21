@@ -4,6 +4,13 @@
 <div class="container">
     <div class="row justify-content-center">
         <div class="col-md-8">
+            <div class="row">
+                <div class="col-lg-12 margin-tb">
+                    <div class="pull-left">
+                        <h2>Create New Tenant</h2>
+                    </div>
+                </div>
+            </div>
             <div class="card">
                 <div class="card-body">
 
